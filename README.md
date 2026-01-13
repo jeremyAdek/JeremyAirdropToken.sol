@@ -16,5 +16,8 @@ Tested in Remix VM (Osaka) environment:
 - Only owner can call airdrop
 
 AIRDROP contract address: 0xd9145CCE52D386f254917e481eB44e9943F39138
+
 Transaction Hash: 0x43cc5f791cb29339c2f0efead3c468c91c13658563f8b293501437d54620164c
+
+https://github.com/jeremyAdek/JeremyAirdropToken.sol/blob/main/JeremyToken1.sol
 
