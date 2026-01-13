@@ -15,10 +15,6 @@ Tested in Remix VM (Osaka) environment:
 - Fails on mismatched array lengths
 - Only owner can call airdrop
 
-- 0xd9145CCE52D386f254917e481eB44e9943F39138
-AIRDROP contract address
-
-0x43cc5f791cb29339c2f0efead3c468c91c13658563f8b293501437d54620164c
-Transaction Hash
-
+AIRDROP contract address: 0xd9145CCE52D386f254917e481eB44e9943F39138
+Transaction Hash: 0x43cc5f791cb29339c2f0efead3c468c91c13658563f8b293501437d54620164c
 
